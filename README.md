@@ -1,102 +1,98 @@
+<h1 align="center">Hi 👋, I'm Muhammad Zain Farrukh</h1>
+
+<p align="center">
+AI Developer • Machine Learning Learner • Automation Engineer
+</p>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Machine+Learning+Engineer;Automation+Expert;Founder+of+Thinkdevlabs&center=true&width=500&height=50">
 </p>
 
-**👋 Hi, I'm Muhammad Zain Farrukh
+---
 
-🚀 AI Enthusiast | Machine Learning Learner | Automation Developer | Founder of Thinkdevlabs
+# 🚀 About Me
 
-I am a Computer Science student passionate about building AI-powered solutions, intelligent chatbots, and automation systems that help businesses work smarter.
+🎓 Computer Science Student  
 
-Currently, I am focused on Machine Learning, AI Agents, and Web Automation while building projects that solve real-world problems.
+🤖 Passionate about Artificial Intelligence  
 
-🧠 What I'm Currently Learning
+⚙️ Building AI Chatbots & Automation Systems  
 
-🤖 Artificial Intelligence
+🏢 Founder of **Thinkdevlabs**
 
-🧠 Machine Learning with Python
+🌍 Goal: Build scalable AI-powered products
 
-🔗 AI Agents & Workflow Automation (n8n)
+---
 
-🌐 Backend Development
+# 🧠 Currently Learning
 
-☁️ Cloud Computing
+• Machine Learning with Python  
+• AI Agents  
+• RAG Systems  
+• Cloud Computing  
+• Automation with n8n
 
-💻 Tech Stack
-Programming
+---
 
-Python
+# 💻 Tech Stack
 
-PHP
+### Programming
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-JavaScript
+### Backend
+![Flask](https://skillicons.dev/icons?i=flask)
+![Django](https://skillicons.dev/icons?i=django)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-Web Development
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
-HTML
+---
 
-CSS
+# 📊 GitHub Stats
 
-Flask
+<p align="center">
 
-Django
+<img src="https://github-readme-stats.vercel.app/api?username=mzain6&show_icons=true&theme=tokyonight" />
 
-FastAPI
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzain6&layout=compact&theme=tokyonight" />
 
-AI & Automation
+</p>
 
-Machine Learning
+---
 
-LangChain
+# 🔥 Current Projects
 
-RAG Systems
+🤖 AI Chatbots for Businesses  
 
-n8n Automation
+⚙️ Business Automation Systems  
 
-OpenAI APIs
+🧠 AI for Performance Tuning in Cloud Databases
 
-Databases
+---
 
-MySQL
+# 🌐 Connect With Me
 
-PostgreSQL
+📧 Email  
+mz2456654@gmail.com  
 
-🚀 Projects
-🤖 AI Chatbots for Businesses
+💼 LinkedIn  
+(Add your LinkedIn link)
 
-Developing intelligent chatbots that can:
+---
 
-Answer customer queries
+# 👀 Profile Visitors
 
-Book appointments
+![](https://komarev.com/ghpvc/?username=mzain6)
 
-Automate support
+---
 
-Integrate with websites
+# 🐍 Contribution Snake
 
-⚙️ Automation Systems
+![snake gif](https://github.com/mzain6/mzain6/blob/output/github-contribution-grid-snake.svg)
 
-Building automated workflows using n8n to help businesses reduce manual work.
+---
 
-🧠 AI Research
-
-Researching AI for Performance Tuning in Cloud Databases.
-
-
-📈 Current Goals
-
-Master Machine Learning
-
-Build scalable AI products
-
-Land international clients for AI automation services
-
-Contribute to open-source AI projects
-
-📫 Connect With Me
-
-📧 Email: mz2456654@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/muhammad-zain-6b4779252
-
-🐙 GitHub: https://github.com/mzain6**
+⭐ Always building. Always learning.
