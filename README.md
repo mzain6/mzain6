@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Machine+Learning+Engineer;Automation+Expert;Founder+of+Thinkdevlabs&center=true&width=500&height=50">
+</p>
+
 **👋 Hi, I'm Muhammad Zain Farrukh
 
 🚀 AI Enthusiast | Machine Learning Learner | Automation Developer | Founder of Thinkdevlabs
