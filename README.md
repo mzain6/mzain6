@@ -51,17 +51,7 @@ AI Developer • Machine Learning Learner • Automation Engineer
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mzain6&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzain6&layout=compact&theme=tokyonight" />
-
-</p>
-
----
 
 # 🔥 Current Projects
 
@@ -79,19 +69,13 @@ AI Developer • Machine Learning Learner • Automation Engineer
 mz2456654@gmail.com  
 
 💼 LinkedIn  
-(Add your LinkedIn link)
+www.linkedin.com/in/muhammad-zain-6b4779252
 
 ---
 
 # 👀 Profile Visitors
 
 ![](https://komarev.com/ghpvc/?username=mzain6)
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/mzain6/mzain6/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
