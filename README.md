@@ -5,7 +5,7 @@ AI Developer • Machine Learning Learner • Automation Engineer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Machine+Learning+Engineer;Automation+Expert;Founder+of+Thinkdevlabs&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Developer;Machine+Learning+Engineer;Automation+Expert;&center=true&width=500&height=50">
 </p>
 
 ---
@@ -17,8 +17,6 @@ AI Developer • Machine Learning Learner • Automation Engineer
 🤖 Passionate about Artificial Intelligence  
 
 ⚙️ Building AI Chatbots & Automation Systems  
-
-🏢 Founder of **Thinkdevlabs**
 
 🌍 Goal: Build scalable AI-powered products
 
