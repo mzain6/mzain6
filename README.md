@@ -67,7 +67,7 @@ AI Developer • Machine Learning Learner • Automation Engineer
 mz2456654@gmail.com  
 
 💼 LinkedIn  
-www.linkedin.com/in/muhammad-zain-6b4779252
+www.linkedin.com/in/mzain6
 
 ---
 
